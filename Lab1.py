@@ -82,6 +82,10 @@ def correlate_matrix():
 
 def main():
     count_plot()
+    histogram()
+    box_plot()
+    scatter()
+    correlate_matrix()
 
 
 if __name__ == "__main__":
